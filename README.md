@@ -19,5 +19,5 @@ Este proyecto contiene la base de datos para una app de blog personal. Usamos **
 
 1. Crear la base de datos en PostgreSQL:
    ```bash
-   createdb personal_blog
+   psql -U postgres -f build.sql   
 
