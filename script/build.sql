@@ -23,7 +23,7 @@ CREATE TABLE "bg03_blog_tag" (
 );
 
 CREATE TABLE "bg02_tag" (
-    "id_tag" INT NOT NULL AUTO_INCRIMENT,
+    "id_tag" INT NOT NULL AUTO_INCREMENT,
     "tx_nombre" VARCHAR(225) NOT NULL
 );
 
