@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS " personal_blog ";
-USE "personal_blog";
+CREATE DATABASE IF NOT EXISTS  personal_blog ;
+USE personal_blog;
 
 -- Datos sacados de la carpeta de 'diagram' del proyecto
 
